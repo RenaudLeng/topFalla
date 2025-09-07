@@ -1,0 +1,18 @@
+# Fichier robots.txt pour TopFalla
+# https://www.topfalla.ga
+
+User-agent: *
+Allow: /
+
+# Fichiers et dossiers à ne pas indexer
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemap
+Sitemap: /sitemap.xml

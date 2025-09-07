@@ -1,0 +1,700 @@
+/* Variables CSS */
+:root {
+    --primary-color: #198754; /* Vert Bootstrap */
+    --secondary-color: #FFC107; /* Jaune Bootstrap */
+    --accent-color: #0D6EFD; /* Bleu Bootstrap */
+    --light-bg: #f8f9fa;
+    --dark-text: #212529;
+    --light-text: #6c757d;
+    --image-placeholder-bg: #f5f5f5;
+    --image-loading-gradient: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+    --image-loading-size: 200% 100%;
+}
+
+/* Styles de base */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    color: var(--dark-text);
+    background-color: #fff;
+    line-height: 1.6;
+}
+
+/* En-tête */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+/* Barre de navigation */
+.navbar {
+    background-color: #ff6000 !important; /* Orange Kelkoo */
+    padding: 0.5rem 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: white !important;
+}
+
+#sidebarToggle {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 1.5rem;
+    padding: 0.25rem 0.75rem;
+    margin-right: 0.5rem;
+}
+
+#sidebarToggle:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+}
+
+/* Sidebar */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: -320px;
+    width: 320px;
+    height: 100vh;
+    background: #f8f9fa;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1050;
+    transition: left 0.3s ease;
+    overflow-y: auto;
+    border-right: 1px solid #e0e0e0;
+}
+
+.sidebar.show {
+    left: 0;
+}
+
+.sidebar-header {
+    padding: 1rem 1.25rem;
+    border-bottom: 1px solid #e0e0e0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.sidebar-body {
+    padding: 0.5rem 0;
+}
+
+.sidebar-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1040;
+    display: none;
+}
+
+.sidebar-overlay.show {
+    display: block;
+}
+
+.category-item {
+    padding: 0;
+    margin: 0;
+    transition: background-color 0.2s;
+}
+
+.category-item:hover {
+    background-color: rgba(0, 0, 0, 0.02);
+}
+
+.category-item a {
+    color: #333;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 0.75rem 1.5rem;
+    font-size: 0.95rem;
+    transition: all 0.2s;
+}
+
+.category-item > a:hover {
+    color: #ff6000;
+    background-color: rgba(0, 0, 0, 0.03);
+    padding-left: 1.5rem;
+}
+
+/* Styles pour les sous-menus */
+.category-item .submenu {
+    max-height: 0;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    background-color: #f8f9fa;
+    transition: max-height 0.3s ease-out;
+    list-style: none;
+}
+
+.category-item.open .submenu {
+    max-height: 1000px; /* Valeur suffisamment grande pour contenir le sous-menu */
+    transition: max-height 0.5s ease-in;
+}
+
+.category-item .submenu li a {
+    display: block;
+    padding: 0.6rem 1.5rem 0.6rem 3.5rem;
+    color: #555;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: all 0.2s;
+    border-left: 3px solid transparent;
+}
+
+.category-item .submenu li a:hover {
+    background-color: rgba(0, 0, 0, 0.02);
+    color: #ff6000;
+    border-left-color: #ff6000;
+}
+
+/* Flèche des catégories avec sous-menus */
+.category-item.has-submenu > a i {
+    transition: transform 0.3s ease;
+    font-size: 0.8rem;
+    color: #777;
+}
+
+.category-item.has-submenu.open > a i {
+    transform: rotate(90deg);
+}
+
+/* Animation du chevron */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateX(-10px); }
+    to { opacity: 1; transform: translateX(0); }
+}
+
+.category-item .submenu li {
+    animation: fadeIn 0.3s ease-out;
+    animation-fill-mode: both;
+}
+
+/* Délai d'animation pour chaque élément de sous-menu */
+.category-item .submenu li:nth-child(1) { animation-delay: 0.05s; }
+.category-item .submenu li:nth-child(2) { animation-delay: 0.1s; }
+.category-item .submenu li:nth-child(3) { animation-delay: 0.15s; }
+.category-item .submenu li:nth-child(4) { animation-delay: 0.2s; }
+.category-item .submenu li:nth-child(5) { animation-delay: 0.25s; }
+
+.category-item img {
+    width: 24px;
+    height: 24px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+/* Cartes de catégories */
+.category-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border: 1px solid #e9ecef;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.category-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  border-color: #198754;
+}
+
+.category-image-container {
+  height: 150px;
+  width: 100%;
+  overflow: hidden;
+  background-color: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.category-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.category-card:hover .category-image {
+  transform: scale(1.05);
+}
+
+.category-card .card-body {
+    padding: 1rem;
+    background-color: #fff;
+    border-top: 1px solid rgba(0,0,0,0.05);
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.category-card .card-title {
+  color: #2c3e50;
+  font-weight: 600;
+  font-size: 1rem;
+  margin: 0 0 0.25rem 0;
+}
+
+.category-card .card-text {
+  color: #6c757d;
+  font-size: 0.85rem;
+  margin: 0;
+  line-height: 1.4;
+}
+
+.category-icon {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: var(--primary-color);
+}
+
+/* Animation de chargement pour les images */
+@keyframes shimmer {
+  0% { background-position: -468px 0 }
+  100% { background-position: 468px 0 }
+}
+
+.loading-image {
+  background: #f6f7f8;
+  background-image: linear-gradient(to right, #f6f7f8 0%, #eaeaea 20%, #f6f7f8 40%, #f6f7f8 100%);
+  background-repeat: no-repeat;
+  background-size: 800px 100%;
+}
+
+/* Cartes de produits */
+.product-card {
+    transition: transform 0.2s ease;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 8px;
+    overflow: hidden;
+    height: 100%;
+}
+
+.product-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.product-price {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+.product-store {
+    font-size: 0.875rem;
+    color: var(--light-text);
+}
+
+/* Boutons */
+.btn-success {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-outline-success {
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-outline-success:hover {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+/* Formulaire de recherche */
+#searchForm .form-control:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 0.25rem rgba(25, 135, 84, 0.25);
+}
+
+/* Pied de page */
+footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+}
+
+/* Mode hors ligne */
+.offline-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #ffc107;
+    color: #000;
+    text-align: center;
+    padding: 10px;
+    z-index: 1000;
+    display: none;
+}
+
+/* Animation de chargement */
+.loading-spinner {
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    border: 0.25rem solid rgba(25, 135, 84, 0.3);
+    border-radius: 50%;
+    border-top-color: var(--primary-color);
+    animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .navbar-brand {
+        font-size: 1.25rem;
+    }
+    
+    h1 {
+        font-size: 1.75rem;
+    }
+}
+
+/* ==================== */
+/* Styles du menu latéral */
+/* ==================== */
+#sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 320px;
+    max-width: 90%;
+    height: 100vh;
+    background: white;
+    z-index: 1050;
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 2px 0 15px rgba(0, 0, 0, 0.15);
+    overflow-y: auto;
+    will-change: transform;
+    transform: translateX(-100%);
+    display: flex;
+    flex-direction: column;
+}
+
+#sidebar.show {
+    transform: translateX(0);
+}
+
+/* Animation d'entrée */
+#sidebar.sidebar-enter {
+    animation: slideIn 0.3s forwards;
+}
+
+/* Animation de sortie */
+#sidebar.sidebar-exit {
+    animation: slideOut 0.3s forwards;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes slideOut {
+    from {
+        transform: translateX(0);
+        opacity: 1;
+    }
+    to {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+}
+
+#sidebarOverlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(3px);
+    z-index: 1040;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out, backdrop-filter 0.3s ease;
+    will-change: opacity, backdrop-filter;
+}
+
+#sidebarOverlay.show {
+    display: block;
+    opacity: 1;
+    animation: fadeIn 0.3s forwards;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* En-tête du menu latéral */
+.sidebar-header {
+    padding: 1.5rem 1.25rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    background: #f8f9fa;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sidebar-body {
+    flex: 1;
+    padding: 1rem 0;
+    overflow-y: auto;
+}
+
+/* Styles pour les icônes du menu */
+.menu-icon {
+    font-size: 1.2rem;
+    width: 24px;
+    min-width: 24px;
+    text-align: center;
+    color: var(--primary-color);
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Icônes des sous-menus */
+.submenu .menu-icon {
+    font-size: 1rem;
+    width: 20px;
+    min-width: 20px;
+    color: var(--light-text);
+}
+
+/* Animation des icônes au survol */
+.menu-item:hover .menu-icon {
+    transform: scale(1.1);
+    color: var(--accent-color);
+}
+
+/* Style pour les flèches des menus déroulants */
+.menu-arrow {
+    transition: transform 0.3s ease;
+    font-size: 0.8rem;
+    color: var(--light-text);
+}
+
+/* Rotation de la flèche quand le sous-menu est ouvert */
+.menu-item.show .menu-arrow {
+    transform: rotate(180deg);
+}
+
+/* Animation des éléments du menu */
+.menu-item {
+    transition: all 0.3s ease;
+    transform-origin: left center;
+    opacity: 0;
+    transform: translateX(-20px);
+    animation: menuItemEnter 0.3s forwards;
+    animation-delay: var(--delay, 0s);
+}
+
+/* Animation d'entrée des éléments du menu */
+@keyframes menuItemEnter {
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Style pour les liens du menu */
+.nav-link {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 1.5rem;
+    color: var(--dark-text);
+    transition: all 0.2s ease;
+    border-radius: 0.25rem;
+    margin: 0.25rem 0.5rem;
+}
+
+.nav-link:hover {
+    background-color: rgba(13, 110, 253, 0.1);
+    color: var(--accent-color);
+}
+
+/* Style actif pour le menu */
+.nav-link.active {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.nav-link.active .menu-icon {
+    color: white;
+}
+
+/* Style pour les sous-menus */
+.submenu {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+    padding-left: 1.5rem;
+}
+
+.submenu.show {
+    max-height: 1000px; /* Ajustez selon vos besoins */
+}
+
+/* Effet de survol sur les éléments du menu */
+.nav-link {
+    transition: all 0.2s ease;
+    border-radius: 4px;
+    margin: 0.25rem 0.5rem;
+    padding: 0.5rem 1rem;
+    color: #333;
+    display: flex;
+    align-items: center;
+}
+
+.nav-link i {
+    margin-right: 0.75rem;
+    font-size: 1.1em;
+    width: 24px;
+    text-align: center;
+}
+
+.nav-link:hover {
+    background-color: rgba(25, 135, 84, 0.1);
+    color: #198754;
+    transform: translateX(5px);
+    text-decoration: none;
+}
+
+/* Animation du bouton de fermeture */
+#closeSidebar {
+    transition: all 0.3s ease;
+    opacity: 0.7;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    color: #6c757d;
+    cursor: pointer;
+    padding: 0.25rem;
+    line-height: 1;
+}
+
+#closeSidebar:hover {
+    opacity: 1;
+    transform: rotate(90deg);
+    color: #dc3545;
+}
+
+/* Style pour les catégories dans le menu */
+.category-menu-item {
+    position: relative;
+}
+
+.category-menu-item .menu-arrow {
+    position: absolute;
+    right: 1rem;
+    transition: transform 0.3s ease;
+}
+
+.category-menu-item.active .menu-arrow {
+    transform: rotate(180deg);
+}
+
+/* Style pour les images des catégories */
+.category-img-container {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+    overflow: hidden;
+    flex-shrink: 0;
+    margin-right: 0.75rem;
+}
+
+.category-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    margin-right: 0;
+}
+
+.category-img.loaded {
+    opacity: 1;
+}
+
+.category-img.img-error {
+    background: #f8f9fa;
+    padding: 8px;
+    object-fit: contain;
+}
+
+/* Animation de chargement pour les images */
+@keyframes shimmer {
+    0% { background-position: -200% 0; }
+    100% { background-position: 200% 0; }
+}
+
+.image-placeholder {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite linear;
+    z-index: 1;
+}
+
+.category-img.loaded + .image-placeholder {
+    display: none;
+}
+
+/* Style pour les images en erreur */
+.img-error {
+    background-color: #f8f9fa;
+    padding: 8px;
+    object-fit: contain;
+}
+
+/* Style pour le contenu principal quand le menu est ouvert */
+body.sidebar-open {
+    overflow: hidden;
+}
+
+/* Adaptation pour les petits écrans */
+@media (max-width: 576px) {
+    #sidebar {
+        width: 280px;
+    }
+}

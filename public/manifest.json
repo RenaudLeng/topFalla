@@ -1,0 +1,23 @@
+{
+  "name": "TopFalla",
+  "short_name": "TopFalla",
+  "description": "Comparateur de prix pour le Gabon",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#198754",
+  "theme_color": "#198754",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/img/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

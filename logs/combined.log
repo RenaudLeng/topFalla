@@ -1,0 +1,2283 @@
+2025-08-29 06:52:41 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:41 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:42 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:42 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:43 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:44 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:44 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:44 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:44 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:48 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:48 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:48 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:48 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:49 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:49 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:49 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:49 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:50 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:50 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:52:50 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:53:08 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:53 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:54 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:54 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:55 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:55 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:55 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:55 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:55 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:56 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:56 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:56 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:56 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:57 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:57 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:57 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:57 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:57 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:57 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:57 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:57 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:57:57 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:15 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:17 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:17 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:18 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:18 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:18 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:18 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:19 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:19 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:19 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:19 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:19 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:19 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:20 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:20 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:21 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:21 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:21 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:21 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:21 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:21 [ERROR]: SequelizeConnectionRefusedError
+    at ConnectionManager.connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\mysql\connection-manager.js:92:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConnectionManager._connect (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:222:24)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:174:32
+    at async ConnectionManager.getConnection (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\abstract\connection-manager.js:197:7)
+    at async C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:305:26
+    at async Sequelize.authenticate (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\sequelize.js:457:5)
+    at async startServer (C:\Users\Renaud_LENG\Documents\APPS\topFalla\app.js:94:5)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  },
+  "original": {
+    "code": "ECONNREFUSED",
+    "fatal": true
+  }
+}
+2025-08-29 06:58:50 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:50 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:51 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:51 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:51 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:52 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:52 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:53 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:53 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:53 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:53 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:53 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:54 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:54 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:54 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:54 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:54 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:54 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:54 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 06:58:55 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 07:01:13 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:17:34 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:17:35 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:17:35 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:17:35 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:17:35 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:17:58 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:17:58 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:17:58 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:17:59 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:17:59 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:00 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:00 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:00 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:00 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:00 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:00 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:00 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:00 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:01 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:01 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:01 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:01 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:01 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:01 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:01 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:01 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
+2025-08-29 14:18:01 [ERROR]: SequelizeConnectionRefusedError
+    at Client._connectionCallback (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\sequelize\lib\dialects\postgres\connection-manager.js:133:24)
+    at Client._handleErrorWhileConnecting (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:336:19)
+    at Client._handleErrorEvent (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\client.js:346:19)
+    at Connection.emit (node:events:524:28)
+    at Socket.reportStreamError (C:\Users\Renaud_LENG\Documents\APPS\topFalla\node_modules\pg\lib\connection.js:57:12)
+    at Socket.emit (node:events:524:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+{
+  "service": "topfalla-api",
+  "name": "SequelizeConnectionRefusedError",
+  "parent": {
+    "code": "ECONNREFUSED"
+  },
+  "original": {
+    "code": "ECONNREFUSED"
+  }
+}
